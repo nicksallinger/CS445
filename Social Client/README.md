@@ -1,1 +1,1 @@
-Social Client
+A social network
